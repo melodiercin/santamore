@@ -1,0 +1,5 @@
+mesaj = " Hosgeldin "
+musteriAdi = " Işık Melodi "
+musteriSoyadi = "ERÇİN"
+sonucMesaj = mesaj+" "+musteriAdi+" "+musteriSoyadi
+print(sonucMesaj)
